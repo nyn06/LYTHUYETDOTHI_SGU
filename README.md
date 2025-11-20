@@ -32,9 +32,7 @@ BÁO CÁO ĐƯỢC VIẾT BỞI SINH VIÊN TRẦN THẢO NGUYÊN, MSSV: 31244111
 
 * Xây dựng giao diện trực quan để mô phỏng các thuật toán đồ thị.
 * Tối ưu và viết lại một số bài theo hướng **clean code**.
-* Áp dụng lập trình hướng đối tượng (OOP) cho các bài toán lớn.
 * Tạo bộ test tự động để kiểm tra tính đúng đắn của từng bài.
-* Mở rộng repo thành tài liệu tham khảo cho sinh viên khóa sau.
 
 ## Ghi chú 
 
