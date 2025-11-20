@@ -16,8 +16,7 @@ BÁO CÁO ĐƯỢC VIẾT BỞI SINH VIÊN TRẦN THẢO NGUYÊN, MSSV: 31244111
   * Tìm đường đi ngắn nhất (Dijkstra, Dijkstra-PriorityQueue, Floyd)
   * Cây khung nhỏ nhất (Prim, Kruskal)
   * Tô màu đồ thị
-* **STL Practice** – Một số bài luyện tập về các cấu trúc dữ liệu trong C++ hỗ trợ việc triển khai thuật toán đồ thị.
-
+    
 ## Những gì em đã học được
 
 * Nắm vững cách **biểu diễn đồ thị** và hiểu rõ ý nghĩa từng dạng biểu diễn.
