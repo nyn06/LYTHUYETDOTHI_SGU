@@ -2,8 +2,7 @@
 BÁO CÁO ĐƯỢC VIẾT BỞI SINH VIÊN TRẦN THẢO NGUYÊN, MSSV: 3124411194
 ## Giới thiệu
 
-Repository này lưu trữ toàn bộ bài tập và bài thực hành của môn **Lý Thuyết Đồ Thị**, được triển khai bằng ngôn ngữ **C++**. Các bài được hoàn thành theo đúng tiến độ học phần và sau đó được **tái tổ chức** để sắp xếp repo rõ ràng và dễ theo dõi hơn.
-Việc tái cấu trúc chỉ nhằm mục đích tổ chức lại cho gọn gàng, **không chỉnh sửa nội dung hay thay đổi tiến độ thực hiện**. Toàn bộ mốc thời gian gốc của từng bài đều có thể được kiểm tra thông qua mục **History** trên GitHub.
+Đây là repository nơi em tổng hợp lại toàn bộ bài tập và bài thực hành của môn **Lý Thuyết Đồ Thị** mà em đã làm trong suốt học kỳ. Tất cả được viết bằng **C++**, bám sát nội dung giảng dạy và từng buổi học trên lớp. Sau khi hoàn thành đầy đủ các bài, em đã sắp xếp lại repo theo từng nhóm (BT1, TH02–TH08) để thầy dễ xem hơn. Việc sắp xếp lại này chỉ nhằm giúp repo rõ ràng và gọn gàng hơn, **không chỉnh sửa nội dung bài làm gốc**. Thời gian thực hiện từng bài vẫn được giữ nguyên trong phần **History** của GitHub.
 
 ## Cấu trúc thư mục
 
@@ -44,6 +43,7 @@ Do repo ban đầu upload từng file rời rạc nên khó theo dõi. Để gi�
 * Gom các file vào từng thư mục BT1, TH02… TH08
 * Giữ nguyên toàn bộ lịch sử commit (có thể xem lại qua mục History)
 * Không chỉnh sửa nội dung bài gốc, chỉ thay đổi vị trí file để repo gọn hơn
+
 → Thầy có thể kiểm tra thời gian gốc của từng bài qua phần History của GitHub.
 
 ##  Kết luận
